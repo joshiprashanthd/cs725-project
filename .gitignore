@@ -1,0 +1,9 @@
+musdb18_extracted
+musdb18_npz
+musdb18_resized
+results
+__pycache__
+.idea
+*.wav
+*.xml
+*.iml
